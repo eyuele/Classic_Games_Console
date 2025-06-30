@@ -30,17 +30,18 @@ g++ -std=c++17 -O2 games.cpp -o games
 ./games
 
 ## 📊 Project Structure
-
-Classic_Games_Console/
-├── .github/
-│   └── workflows/          # GitHub Actions CI
-├── assets/
-│   ├── rps-demo.gif        # Gameplay gifs
-│   └── gtn-screenshot.png
-├── games.cpp               # Main source
-├── LICENSE
-└── README.md
-
+    ```bash
+        Classic_Games_Console/
+        ├── .github/
+        │   └── workflows/          # GitHub Actions CI
+        ├── assets/
+        │   ├── rps-demo.gif        # Gameplay gifs
+        │   └── gtn-screenshot.png
+        ├── games.cpp               # Main source
+        ├── LICENSE
+        └── README.md
+    ```
+---
 ## 🛠️ Development
 
 ### Prerequisites
